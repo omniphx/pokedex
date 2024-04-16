@@ -47,8 +47,9 @@ export default function PokemonCard({ pokemon, isPending }: any) {
   });
 
   return (
-    <div className={`max-w-sm mx-auto my-10 ${isPending ? "opacity-50" : ""}`}>
-      <Card className="relative">
+    <div className={`max-w-sm mx-auto my-10`}>
+      <Card className={`relative ${isPending ? "opacity-50" : ""}`}>
+        
         <div className="absolute top-5 right-5">
           <Checkbox
             checked={pokemon.caught}
