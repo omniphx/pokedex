@@ -1,0 +1,75 @@
+{
+  "pokemon": [
+    {
+      "id": "1",
+      "name": "Pikachu",
+      "type": "Electric",
+      "level": 25,
+      "moves": [
+        "Thunder Shock",
+        "Quick Attack",
+        "Electro Ball",
+        "Iron Tail"
+      ],
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+      "caught": true
+    },
+    {
+      "id": "2",
+      "name": "Charmander",
+      "type": "Fire",
+      "level": 10,
+      "moves": [
+        "Ember",
+        "Scratch",
+        "Flamethrower",
+        "Dragon Breath"
+      ],
+      "img": "https://i.pinimg.com/736x/9d/73/9f/9d739fe1dbe0a1ca14cc1455284799d3.jpg",
+      "caught": false
+    },
+    {
+      "id": "3",
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "level": 15,
+      "moves": [
+        "Tackle",
+        "Vine Whip",
+        "Razor Leaf",
+        "Seed Bomb"
+      ],
+      "img": "https://p7.hiclipart.com/preview/615/614/357/pokemon-firered-and-leafgreen-pokemon-go-bulbasaur-venusaur-pokemon-go-thumbnail.jpg",
+      "caught": false
+    },
+    {
+      "id": "4",
+      "name": "Squirtle",
+      "type": "Water",
+      "level": 12,
+      "moves": [
+        "Bubble",
+        "Tackle",
+        "Water Gun",
+        "Hydro Pump"
+      ],
+      "img": "https://i.pinimg.com/736x/61/c0/b0/61c0b0b274f16137a799e3dd4f8d4323.jpg",
+      "caught": true
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
