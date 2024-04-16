@@ -1,5 +1,5 @@
 'use client';
-import PokemonCard from './PokemonCard';
+import PokemonCard from './PokemonList';
 import { useEffect, useState } from 'react';
 
 
