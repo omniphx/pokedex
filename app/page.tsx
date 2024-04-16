@@ -1,18 +1,11 @@
-'use client';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import Pokemon from './Pokemon';
-
-import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
-
-
-const queryClient = new QueryClient()
+import Pokemon from "./Pokemon";
+import Providers from "@/components/Providers";
 
 function Home() {
   return (
-    <QueryClientProvider client={queryClient}>
+    <Providers>
       <Pokemon />
-      <ReactQueryDevtools initialIsOpen={false} />
-    </QueryClientProvider>
+    </Providers>
   );
 }
 

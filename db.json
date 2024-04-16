@@ -12,7 +12,9 @@
         "Iron Tail"
       ],
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
-      "caught": true
+      "caught": false,
+      "cp": 203,
+      "hp": 240
     },
     {
       "id": "2",
@@ -25,8 +27,10 @@
         "Flamethrower",
         "Dragon Breath"
       ],
-      "img": "https://i.pinimg.com/736x/9d/73/9f/9d739fe1dbe0a1ca14cc1455284799d3.jpg",
-      "caught": false
+      "img": "https://freepngimg.com/thumb/pokemon/117713-charmander-download-hd.png",
+      "caught": false,
+      "cp": 394,
+      "hp": 340
     },
     {
       "id": "3",
@@ -39,8 +43,10 @@
         "Razor Leaf",
         "Seed Bomb"
       ],
-      "img": "https://p7.hiclipart.com/preview/615/614/357/pokemon-firered-and-leafgreen-pokemon-go-bulbasaur-venusaur-pokemon-go-thumbnail.jpg",
-      "caught": false
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fb/0001Bulbasaur.png/250px-0001Bulbasaur.png",
+      "caught": false,
+      "cp": 294,
+      "hp": 320
     },
     {
       "id": "4",
@@ -53,8 +59,10 @@
         "Water Gun",
         "Hydro Pump"
       ],
-      "img": "https://i.pinimg.com/736x/61/c0/b0/61c0b0b274f16137a799e3dd4f8d4323.jpg",
-      "caught": true
+      "img": "https://projectpokemon.org/home/uploads/monthly_2019_06/large.squirtle.png.6575518d7cfe1936626c5d05de7fc26a.png",
+      "caught": false,
+      "cp": 312,
+      "hp": 320
     }
   ],
   "comments": [
